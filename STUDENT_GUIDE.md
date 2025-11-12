@@ -240,7 +240,7 @@
 #### 簡単3ステップで提出完了
 
 ```
-1. 画面左下の「≡」メニューをクリック
+1. 画面左上の「≡」メニューをクリック
 2. 「My Codespaces」で表示される画面から，作業中のCodespace のメニューを展開．「Export changes to a branch」を選択
 3. 「Create branch」をクリック
 ```
@@ -900,6 +900,7 @@ go mod tidy
 ### 教員・TA向けドキュメント
 - **[TEACHER_REVIEW_GUIDE.md](TEACHER_REVIEW_GUIDE.md)** - 課題確認・評価ガイド
 - **[CONTAINER_SETUP_MANUAL.md](CONTAINER_SETUP_MANUAL.md)** - コンテナイメージ構築ガイド（Podman版）
+
 
 
 
